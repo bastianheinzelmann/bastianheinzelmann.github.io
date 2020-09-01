@@ -1,11 +1,11 @@
 # Jekyll configuration
 
-name: Blog Name
+name: Of Unicorns and Pandas
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
 # url: http://streetturtle.github.io
-url: http://localhost:4000
+url: https://bastianheinzelmann.github.io/
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: 
@@ -14,19 +14,19 @@ author: Pavel Makhov
 copyright: 2015-2018
 
 share:
-  facebook: false
+  facebook: true
   twitter: true
   gplus: false
-  linkedin: false
+  linkedin: true
   pinterest: false
   email: true
 
 social:
-  github: streetturtle
-  stackoverflow: ''
+  github: bastianheinzelmann
+  stackoverflow:
   linkedin:
-  instagram: ''
-  lastfm: ''
+  instagram:
+  lastfm:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore

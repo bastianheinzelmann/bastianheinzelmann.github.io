@@ -5,4 +5,4 @@ title: About
 ---
 
 # Some info 
-...about how cool you are ;)
+I am a computer science graduate, who tries to procrastinate.
