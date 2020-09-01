@@ -10,8 +10,8 @@ url: https://bastianheinzelmann.github.io/
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: 
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Bastian Heinzelmann
+copyright: 
 
 share:
   facebook: true
@@ -23,6 +23,7 @@ share:
 
 social:
   github: bastianheinzelmann
+  twitter: 'vainunicorn'
   stackoverflow:
   linkedin:
   instagram:
